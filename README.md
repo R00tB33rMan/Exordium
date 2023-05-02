@@ -2,7 +2,7 @@
 
 # Exordium
 
-__Render the HUD and screens at a lower framerate to speed up what's really important: the worldrendering.__
+__Render the HUD and screens at a lower framerate to speed up what's really important: world rendering.__
 
 Renders the HUD at a lower fixed framerate (configurable in the settings), freeing up CPU and GPU time for the world rendering. There is no good reason to render the hotbar at 100+ FPS.
 
